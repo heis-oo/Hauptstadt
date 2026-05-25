@@ -1,6 +1,6 @@
 import { logger } from '../utils/logger.js';
 
-const client = new Client({ prefix: '?' });
+
 export const botConfig = {
   // =========================
   // BOT PRESENCE (what users see under the bot name)
